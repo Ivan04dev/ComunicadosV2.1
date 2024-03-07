@@ -1,0 +1,10 @@
+Al momento de presionar el checkbox "Ver Ciudades" se deben de visualizar las divisiones con sus respectivas regiones
+
+[] Ver Ciudades
+
+[] División Metro		[] División Sur		[] División Norte
+
+[] Metro Norte			[] Golfo		[] Centro
+[] Metro Sur			[] Occidente		[] Noreste
+				[] Surste		[] Pacífico
+
